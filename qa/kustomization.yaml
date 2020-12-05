@@ -13,5 +13,4 @@ resources:
   - arranger
   - logs
   - fluentd
-  - certificate
   - zeppelin
